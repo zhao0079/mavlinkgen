@@ -1,2 +1,13 @@
 deploy/mavlinkgen.dmg
 deploy/mavlinkgen*.exe
+*.pro.user
+*.ncb
+*.vcproj
+*.sln
+*.sln
+*.vcproj
+*.user
+*.ncb
+*.idb
+*.project
+*.cproject
